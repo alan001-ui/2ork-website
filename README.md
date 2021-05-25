@@ -8,3 +8,5 @@ Require: WordPress, Open data, CSS, Javascript, Database.
 We put the file in the google drive folder, the URL is: https://drive.google.com/drive/u/1/folders/1nT3uYn5WirFG0c9woDI2-K1gDOupkCrq
 
 There is also Usability Video to show the whole website. URL: https://drive.google.com/drive/u/1/folders/1I0UBimnwb-eijeDGjJ75NOD6b7XXKIEN
+
+There are some errors when I upload the whole website picture. The whole website presetation can be found in the usability video.
